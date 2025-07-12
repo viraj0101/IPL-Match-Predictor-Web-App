@@ -1,4 +1,4 @@
-# Web Based IPL Team Prediction
+# IPL Match Predictor Web App
 
 # Project Title : IPL Fantasy Cricket Dream 11 Team Predictor
 
